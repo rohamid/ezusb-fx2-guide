@@ -9,3 +9,7 @@ This is guide for `EZ-USB FX2LP` or `CY7C68013A` high speed USB microcontroller.
 * [hirasaka001.blogspot.com](https://hirasaka001.blogspot.com/search/label/EZ-USB) This is in japanese.
 * [hirasakausb.blogspot.com](https://hirasakausb.blogspot.com/2019/03/ez-usb-fx2lp-index.html) Another hirasuka blog?
 * [colecovision.eu](http://www.colecovision.eu/mcs51/CY7C68013A%20EZ-USB%20FX2LP%20USB2.0%20Development%20Board%20LED.shtml) Some beginner MCS51 tutorial
+* [ezusb makefile firmware skeleton (try this!)](https://github.com/hansiglaser/ezusb-firmware)
+* [fpga4u fx2](https://fpga4u.epfl.ch/wiki/FX2.html)
+* [USB JTAG](https://ixo-jtag.sourceforge.net/)
+* [This is an attempt to build USB camera](https://hoyoung2.blogspot.com/2011/07/experimental-usb-camera.html)
