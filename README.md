@@ -14,3 +14,4 @@ This is guide for `EZ-USB FX2LP` or `CY7C68013A` high speed USB microcontroller.
 * [USB JTAG](https://ixo-jtag.sourceforge.net/)
 * [This is an attempt to build USB camera](https://hoyoung2.blogspot.com/2011/07/experimental-usb-camera.html)
 * [Infineon's Community forum](https://community.infineon.com/t5/USB-low-full-high-speed/bd-p/USBLowFullHighSpeedPeripherals)
+* [Infineon's Community forum (page 250)](https://community.infineon.com/t5/USB-low-full-high-speed/bd-p/USBLowFullHighSpeedPeripherals/page/250)
